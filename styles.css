@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+/* Styling for the main element */
+main.accio#job {
+  width: 150px;               /* Sets the width of the main element */
+  height: 150px;              /* Sets the height of the main element */
+  background-color: #000000;  /* Sets the background color to black */
+  display: flex;              /* Allows centering the content */
+  justify-content: center;    /* Centers the content horizontally */
+  align-items: center;        /* Centers the content vertically */
+}
+
+/* Styling for the paragraph element */
+p.hello-accio {
+  color: #ffffff;    /* Sets the text color to white */
+  margin-left: 32px; /* Adds a left margin of 32px */
+  padding: 10px;     /* Adds 10px padding on all sides */
+}
